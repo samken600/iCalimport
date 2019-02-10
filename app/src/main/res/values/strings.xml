@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">iCalimport</string>
+    <string name="open_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string-array name="start_time_array">
+        <item>9:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+    </string-array>
+
+    <string-array name="end_time_array">
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>12:00</item>
+        <item>13:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+        <item>17:00</item>
+        <item>16:00</item>
+    </string-array>
+
+</resources>
